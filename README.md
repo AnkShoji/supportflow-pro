@@ -17,17 +17,14 @@ Sistema profesional de gestión de tickets de soporte técnico, construido con R
 Aquí puedes ver cómo luce el sistema en acción:
 
 ### 1. Inicio de Sesión
-![Inicio de Sesión]
-
 <img width="1452" height="922" alt="Captura de pantalla 2026-04-15 105300" src="https://github.com/user-attachments/assets/85f4ba58-31df-4ac8-8819-1e2799ea2579" />
 
 ### 2. Creación de Tickets
-![Creación de Tickets](<img width="1794" height="991" alt="Captura de pantalla 2026-04-15 102550" src="https://github.com/user-attachments/assets/9aae9b23-414d-4bee-b329-97979fd88f8e" />)
-*Formulario intuitivo para que los usuarios reporten sus incidencias.*
+<img width="1794" height="991" alt="Captura de pantalla 2026-04-15 102550" src="https://github.com/user-attachments/assets/acf18dee-9bc2-47fd-afa0-5e4aab8b26be" />
 
 ### 3. Panel de Administración
-![Panel de Administración](<img width="1766" height="782" alt="Captura de pantalla 2026-04-15 102613" src="https://github.com/user-attachments/assets/7dbcae9c-e339-4d3d-bb6c-111593d2766e" />)
-*Vista exclusiva para administradores con opciones de gestión y borrado.*
+<img width="1766" height="782" alt="Captura de pantalla 2026-04-15 102613" src="https://github.com/user-attachments/assets/80db4068-9287-45e0-9d23-9da7fd44567c" />
+
 
 ---
 
