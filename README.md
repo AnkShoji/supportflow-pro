@@ -17,7 +17,8 @@ Sistema profesional de gestión de tickets de soporte técnico, construido con R
 Aquí puedes ver cómo luce el sistema en acción:
 
 ### 1. Inicio de Sesión
-![Inicio de Sesión](<img width="1452" height="922" alt="Captura de pantalla 2026-04-15 105300" src="https://github.com/user-attachments/assets/1f4642af-b141-4db6-b72d-71908917fbd8" />)
+![Inicio de Sesión](<img width="1452" height="922" alt="Captura de pantalla 2026-04-15 105300" src="https://github.com/user-attachments/assets/85f4ba58-31df-4ac8-8819-1e2799ea2579" />
+)
 *Interfaz limpia y segura con autenticación de Google.*
 
 ### 2. Creación de Tickets
