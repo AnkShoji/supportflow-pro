@@ -28,7 +28,7 @@ Aquí puedes ver cómo luce el sistema en acción:
 
 ---
 
-## 🛠️ Guía de Instalación (Para GitHub)
+## 🛠️ Guía de Instalación 
 
 Si has descargado o clonado este proyecto, sigue estos pasos para ponerlo en marcha:
 
