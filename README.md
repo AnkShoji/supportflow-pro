@@ -1,4 +1,4 @@
-# SupportFlow Pro 
+# SupportFlow Pro
 
 Sistema profesional de gestión de tickets de soporte técnico, construido con React, TypeScript y Firebase.
 
@@ -9,6 +9,24 @@ Sistema profesional de gestión de tickets de soporte técnico, construido con R
   - **Usuarios**: Pueden crear tickets y ver el estado de las solicitudes.
   - **Administradores**: Tienen permisos exclusivos para marcar tickets como resueltos o eliminarlos.
 - **Diseño Premium**: Interfaz moderna con Tailwind CSS, shadcn/ui y animaciones fluidas con Framer Motion.
+
+---
+
+## Capturas de Pantalla
+
+Aquí puedes ver cómo luce el sistema en acción:
+
+### 1. Inicio de Sesión
+![Inicio de Sesión](<img width="1452" height="922" alt="Captura de pantalla 2026-04-15 105300" src="https://github.com/user-attachments/assets/1f4642af-b141-4db6-b72d-71908917fbd8" />)
+*Interfaz limpia y segura con autenticación de Google.*
+
+### 2. Creación de Tickets
+![Creación de Tickets](<img width="1794" height="991" alt="Captura de pantalla 2026-04-15 102550" src="https://github.com/user-attachments/assets/9aae9b23-414d-4bee-b329-97979fd88f8e" />)
+*Formulario intuitivo para que los usuarios reporten sus incidencias.*
+
+### 3. Panel de Administración
+![Panel de Administración](<img width="1766" height="782" alt="Captura de pantalla 2026-04-15 102613" src="https://github.com/user-attachments/assets/7dbcae9c-e339-4d3d-bb6c-111593d2766e" />)
+*Vista exclusiva para administradores con opciones de gestión y borrado.*
 
 ---
 
@@ -63,7 +81,7 @@ npm run dev
 
 ---
 
-## Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 - **React 18** + **Vite**
 - **TypeScript**
 - **Tailwind CSS**
