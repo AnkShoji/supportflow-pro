@@ -1,8 +1,8 @@
-# SupportFlow Pro 🚀
+# SupportFlow Pro 
 
 Sistema profesional de gestión de tickets de soporte técnico, construido con React, TypeScript y Firebase.
 
-## ✨ Características
+## Características
 - **Autenticación**: Inicio de sesión seguro con Google.
 - **Tiempo Real**: Los tickets se actualizan instantáneamente en todos los dispositivos.
 - **Roles de Usuario**:
@@ -63,7 +63,7 @@ npm run dev
 
 ---
 
-## 👨‍💻 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - **React 18** + **Vite**
 - **TypeScript**
 - **Tailwind CSS**
