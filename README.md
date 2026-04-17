@@ -1,15 +1,46 @@
 # SupportFlow Pro 
 
-Sistema profesional de gestión de tickets de soporte técnico, construido con React, TypeScript y Firebase.
+Sistema profesional de gestión de tickets de soporte técnico, diseñado para simular flujos reales de atención en entornos empresariales.
 
-## Características
-- **Autenticación**: Inicio de sesión seguro con Google.
-- **Tiempo Real**: Los tickets se actualizan instantáneamente en todos los dispositivos.
-- **Hilos de Comentarios**: Comunicación fluida entre el usuario y el equipo de soporte dentro de cada ticket.
-- **Roles de Usuario**:
-  - **Usuarios**: Pueden crear tickets y ver el estado de las solicitudes.
-  - **Administradores**: Tienen permisos exclusivos para marcar tickets como resueltos o eliminarlos.
-- **Diseño Premium**: Interfaz moderna con Tailwind CSS, shadcn/ui y animaciones fluidas con Framer Motion.
+🚀 Descripción
+
+SupportFlow Pro es una aplicación full stack que permite gestionar solicitudes de soporte técnico mediante un sistema de tickets en tiempo real.
+
+El sistema permite a los usuarios crear solicitudes, hacer seguimiento de su estado y comunicarse con el equipo de soporte a través de comentarios, mientras que los administradores gestionan y resuelven los tickets.
+
+⚙️ Funcionalidades principales
+🔐 Autenticación
+Inicio de sesión seguro con Google (Firebase Authentication)
+📋 Gestión de tickets
+Creación de tickets de soporte
+Visualización de tickets en tiempo real
+Estados de tickets:
+Pendiente
+Resuelto
+💬 Sistema de comentarios
+Comunicación directa dentro de cada ticket
+Historial de mensajes entre usuario y soporte
+👥 Roles de usuario
+Usuario:
+Crear tickets
+Ver estado de sus solicitudes
+Administrador:
+Marcar tickets como resueltos
+Eliminar tickets
+⚡ Tiempo real
+Actualización automática de tickets sin recargar la página
+Sincronización en todos los dispositivos
+🎨 Interfaz
+Diseño moderno con Tailwind CSS
+Componentes UI con shadcn/ui
+Animaciones con Framer Motion
+🧰 Tecnologías utilizadas
+React 18 + Vite
+TypeScript
+Firebase (Authentication + Firestore)
+Tailwind CSS
+Framer Motion
+Lucide React
 
 ---
 
