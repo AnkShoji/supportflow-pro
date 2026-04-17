@@ -56,16 +56,6 @@ El sistema permite a los usuarios crear solicitudes, hacer seguimiento de su est
 - Componentes UI con shadcn/ui  
 - Animaciones con Framer Motion  
 
----
-
-## 🧰 Tecnologías utilizadas
-
-- React 18 + Vite  
-- TypeScript  
-- Firebase (Authentication + Firestore)  
-- Tailwind CSS  
-- Framer Motion  
-- Lucide React  
 
 ---
 
