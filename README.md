@@ -1,8 +1,8 @@
-# SupportFlow Pro 🚀
+# SupportFlow Pro 
 
 Sistema profesional de gestión de tickets de soporte técnico, construido con React, TypeScript y Firebase.
 
-## ✨ Características
+## Características
 - **Autenticación**: Inicio de sesión seguro con Google.
 - **Tiempo Real**: Los tickets se actualizan instantáneamente en todos los dispositivos.
 - **Hilos de Comentarios**: Comunicación fluida entre el usuario y el equipo de soporte dentro de cada ticket.
@@ -18,16 +18,16 @@ Sistema profesional de gestión de tickets de soporte técnico, construido con R
 Aquí puedes ver cómo luce el sistema en acción:
 
 ### 1. Inicio de Sesión
-![Inicio de Sesión](https://via.placeholder.com/800x450?text=Arrastra+aquí+tu+captura+de+Login)
-*Interfaz limpia y segura con autenticación de Google.*
+<img width="1452" height="922" alt="Captura de pantalla 2026-04-15 105300" src="https://github.com/user-attachments/assets/99f7f51a-79e4-4956-8903-f29a8a4775c2" />
+
 
 ### 2. Creación de Tickets
-![Creación de Tickets](https://via.placeholder.com/800x450?text=Arrastra+aquí+tu+captura+de+Crear+Ticket)
-*Formulario intuitivo para que los usuarios reporten sus incidencias.*
+<img width="1794" height="991" alt="Captura de pantalla 2026-04-15 102550" src="https://github.com/user-attachments/assets/9df6c249-45b1-4e02-bfba-63603eb1b1d8" />
+
 
 ### 3. Panel de Administración
-![Panel de Administración](https://via.placeholder.com/800x450?text=Arrastra+aquí+tu+captura+de+Admin)
-*Vista exclusiva para administradores con opciones de gestión y borrado.*
+<img width="1771" height="1069" alt="Captura de pantalla 2026-04-17 132042" src="https://github.com/user-attachments/assets/de946201-da63-47b8-bf35-8b1b0bba63de" />
+
 
 ---
 
@@ -84,7 +84,7 @@ npm run dev
 
 ---
 
-## 👨‍💻 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - **React 18** + **Vite**
 - **TypeScript**
 - **Tailwind CSS**
