@@ -1,0 +1,91 @@
+{
+  "entities": {
+    "Ticket": {
+      "title": "Ticket",
+      "description": "A support ticket in the system",
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "The title or description of the issue"
+        },
+        "status": {
+          "type": "string",
+          "enum": ["pending", "resolved"],
+          "description": "The current status of the ticket"
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the ticket was created"
+        },
+        "userId": {
+          "type": "string",
+          "description": "The ID of the user who created the ticket"
+        },
+        "authorName": {
+          "type": "string",
+          "description": "The name of the user who created the ticket"
+        }
+      },
+      "required": ["title", "status", "createdAt", "userId"]
+    },
+    "User": {
+      "title": "User",
+      "description": "A user of the support system",
+      "type": "object",
+      "properties": {
+        "email": {
+          "type": "string",
+          "format": "email"
+        },
+        "displayName": {
+          "type": "string"
+        },
+        "role": {
+          "type": "string",
+          "enum": ["user", "admin"]
+        }
+      },
+      "required": ["email", "role"]
+    },
+    "Comment": {
+      "title": "Comment",
+      "description": "A comment on a ticket",
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "userId": {
+          "type": "string"
+        },
+        "authorName": {
+          "type": "string"
+        },
+        "isAdmin": {
+          "type": "boolean"
+        }
+      },
+      "required": ["text", "createdAt", "userId"]
+    }
+  },
+  "firestore": {
+    "/tickets/{ticketId}": {
+      "schema": "Ticket",
+      "description": "Global collection of support tickets"
+    },
+    "/tickets/{ticketId}/comments/{commentId}": {
+      "schema": "Comment",
+      "description": "Comments thread for a ticket"
+    },
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User profiles and roles"
+    }
+  }
+}
