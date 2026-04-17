@@ -2,45 +2,70 @@
 
 Sistema profesional de gestión de tickets de soporte técnico, diseñado para simular flujos reales de atención en entornos empresariales.
 
-🚀 Descripción
+---
 
-SupportFlow Pro es una aplicación full stack que permite gestionar solicitudes de soporte técnico mediante un sistema de tickets en tiempo real.
+## 🚀 Descripción
+
+**SupportFlow Pro** es una aplicación full stack que permite gestionar solicitudes de soporte técnico mediante un sistema de tickets en tiempo real.
 
 El sistema permite a los usuarios crear solicitudes, hacer seguimiento de su estado y comunicarse con el equipo de soporte a través de comentarios, mientras que los administradores gestionan y resuelven los tickets.
 
-⚙️ Funcionalidades principales
-🔐 Autenticación
-Inicio de sesión seguro con Google (Firebase Authentication)
-📋 Gestión de tickets
-Creación de tickets de soporte
-Visualización de tickets en tiempo real
-Estados de tickets:
-Pendiente
-Resuelto
-💬 Sistema de comentarios
-Comunicación directa dentro de cada ticket
-Historial de mensajes entre usuario y soporte
-👥 Roles de usuario
-Usuario:
-Crear tickets
-Ver estado de sus solicitudes
-Administrador:
-Marcar tickets como resueltos
-Eliminar tickets
-⚡ Tiempo real
-Actualización automática de tickets sin recargar la página
-Sincronización en todos los dispositivos
-🎨 Interfaz
-Diseño moderno con Tailwind CSS
-Componentes UI con shadcn/ui
-Animaciones con Framer Motion
-🧰 Tecnologías utilizadas
-React 18 + Vite
-TypeScript
-Firebase (Authentication + Firestore)
-Tailwind CSS
-Framer Motion
-Lucide React
+---
+
+## ⚙️ Funcionalidades principales
+
+### 🔐 Autenticación
+- Inicio de sesión seguro con Google (Firebase Authentication)
+
+---
+
+### 📋 Gestión de tickets
+- Creación de tickets de soporte  
+- Visualización de tickets en tiempo real  
+- Estados de tickets:
+  - Pendiente  
+  - Resuelto  
+
+---
+
+### 💬 Sistema de comentarios
+- Comunicación directa dentro de cada ticket  
+- Historial de mensajes entre usuario y soporte  
+
+---
+
+### 👥 Roles de usuario
+- **Usuario:**
+  - Crear tickets  
+  - Ver estado de sus solicitudes  
+
+- **Administrador:**
+  - Marcar tickets como resueltos  
+  - Eliminar tickets  
+
+---
+
+### ⚡ Tiempo real
+- Actualización automática de tickets sin recargar la página  
+- Sincronización en todos los dispositivos  
+
+---
+
+### 🎨 Interfaz
+- Diseño moderno con Tailwind CSS  
+- Componentes UI con shadcn/ui  
+- Animaciones con Framer Motion  
+
+---
+
+## 🧰 Tecnologías utilizadas
+
+- React 18 + Vite  
+- TypeScript  
+- Firebase (Authentication + Firestore)  
+- Tailwind CSS  
+- Framer Motion  
+- Lucide React  
 
 ---
 
