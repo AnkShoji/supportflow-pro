@@ -1,8 +1,8 @@
-# SupportFlow Pro 🚀
+# SupportFlow Pro 
 
 Sistema profesional de gestión de tickets de soporte técnico, construido con React, TypeScript y Firebase.
 
-## ✨ Características
+##  Características
 - **Autenticación**: Inicio de sesión seguro con Google.
 - **Tiempo Real**: Los tickets se actualizan instantáneamente en todos los dispositivos.
 - **Hilos de Comentarios**: Comunicación fluida entre el usuario y el equipo de soporte dentro de cada ticket.
@@ -18,16 +18,16 @@ Sistema profesional de gestión de tickets de soporte técnico, construido con R
 Aquí puedes ver cómo luce el sistema en acción:
 
 ### 1. Inicio de Sesión
-![Inicio de Sesión](https://via.placeholder.com/800x450?text=Arrastra+aquí+tu+captura+de+Login)
-*Interfaz limpia y segura con autenticación de Google.*
+<img width="1452" height="922" alt="Captura de pantalla 2026-04-15 105300" src="https://github.com/user-attachments/assets/baffc7b0-81b0-44ef-befc-5e478fad6bbc" />
+
 
 ### 2. Creación de Tickets
-![Creación de Tickets](https://via.placeholder.com/800x450?text=Arrastra+aquí+tu+captura+de+Crear+Ticket)
-*Formulario intuitivo para que los usuarios reporten sus incidencias.*
+<img width="1794" height="991" alt="Captura de pantalla 2026-04-15 102550" src="https://github.com/user-attachments/assets/1a7abeb0-ea8d-4075-b508-e43d87ec3eee" />
+
 
 ### 3. Panel de Administración
-![Panel de Administración](https://via.placeholder.com/800x450?text=Arrastra+aquí+tu+captura+de+Admin)
-*Vista exclusiva para administradores con opciones de gestión y borrado.*
+<img width="1771" height="1069" alt="Captura de pantalla 2026-04-17 132042" src="https://github.com/user-attachments/assets/bca0333f-3d1c-47df-8fb0-2816a0d51e8b" />
+
 
 ---
 
@@ -82,7 +82,8 @@ npm run dev
 
 ---
 
-## 👨‍💻 Tecnologías Utilizadas
+##<img width="1771" height="1069" alt="Captura de pantalla 2026-04-17 132042" src="https://github.com/user-attachments/assets/5c7c253b-8918-4fc7-a039-8c07583cbe52" />
+ Tecnologías Utilizadas
 - **React 18** + **Vite**
 - **TypeScript**
 - **Tailwind CSS**
