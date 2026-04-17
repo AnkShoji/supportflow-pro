@@ -130,7 +130,7 @@ npm run dev
 
 ---
 
-## Tecnologías Utilizadas
+## 🧰 Tecnologías Utilizadas
 - **React 18** + **Vite**
 - **TypeScript**
 - **Tailwind CSS**
