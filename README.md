@@ -82,7 +82,6 @@ npm run dev
 
 ---
 
-##<img width="1771" height="1069" alt="Captura de pantalla 2026-04-17 132042" src="https://github.com/user-attachments/assets/5c7c253b-8918-4fc7-a039-8c07583cbe52" />
  Tecnologías Utilizadas
 - **React 18** + **Vite**
 - **TypeScript**
