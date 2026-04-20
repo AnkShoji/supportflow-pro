@@ -147,8 +147,8 @@ Este proyecto es de código abierto. ¡Siéntete libre de usarlo y mejorarlo!
 
 **Brayan Rodriguez** 
 
-GitHub: https://github.com/AnkShoji
-LinkedIn: www.linkedin.com/in/brayan-rodriguez-dev
+- GitHub: https://github.com/AnkShoji
+- LinkedIn: www.linkedin.com/in/brayan-rodriguez-dev
 
 ---
 
