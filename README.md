@@ -142,4 +142,14 @@ npm run dev
 Este proyecto es de código abierto. ¡Siéntete libre de usarlo y mejorarlo!
 
 ---
-**Desarrollado por Brayan Rodríguez**
+
+## 👤 Author
+
+**Brayan Rodriguez** 
+
+GitHub: https://github.com/AnkShoji
+LinkedIn: www.linkedin.com/in/brayan-rodriguez-dev
+
+---
+
+> This project was developed as a case study for advanced full-stack real-time architectures and AI integration.
